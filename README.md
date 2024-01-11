@@ -1,4 +1,6 @@
 # test01
 learning git
 
-### First commit  Super duper CRAAAAZY
+### First commit NOT CRAAAAZY
+
+# more lines is crazier #merge conflict resolved?
